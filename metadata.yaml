@@ -1,0 +1,32 @@
+_repo: Die-Augsburger-Confession_607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melanchthon, Philipp
+    aliases:
+    - Schwarzerd, Philipp
+    - Faventinus, Didymus
+    birthdate: 1497
+    deathdate: 1560
+    gutenberg_agent_id: '156'
+    url: http://www.gutenberg.org/2009/agents/156
+    wikipedia: http://en.wikipedia.org/wiki/Philipp_Melanchthon
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '607'
+language:
+- de
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Lutheran Church -- Doctrines'
+- !lcsh 'Theology, Doctrinal'
+- GITenberg
+title: Die Augsburger Confession
+url: http://www.gutenberg.org/ebooks/607
